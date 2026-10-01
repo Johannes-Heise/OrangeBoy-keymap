@@ -4,7 +4,7 @@ QMK keymap for the Orange Boy Ergo keyboard by MechWild. Compile with QMK_MSYS, 
 
 Press and hold Boot0, tap NRST, release Boot0 after about 2 seconds to enter bootloader mode.
 
-Macros:
+#### Shortcuts
 
 Fn + a: ä
 
